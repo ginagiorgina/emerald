@@ -1,5 +1,5 @@
 ## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+Este blog es un proyecto de seguimento de aprendizaje. El objetivo princiapl del blog es compartir mis impresiones sobre la asignatura y todo aquello que se me ocurra comentar. 
 
 ![Emerald](/img/Emerald01.png "Emerald")
 
@@ -26,10 +26,8 @@ Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best 
 
 ## Author
 
-### Jacopo Rabolini
+### Georgina Garcia Farré
 
 - Web site: [www.jacoporabolini.com](http://www.jacoporabolini.com)
 - Google+: [+JacopoRabolini](https://plus.google.com/u/0/+JacopoRabolini/posts)
 
-## License
-Emerald is released under [MIT License](license.md).
