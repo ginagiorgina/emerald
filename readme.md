@@ -1,5 +1,5 @@
 ## About
-Este blog es un proyecto de seguimento de aprendizaje. El objetivo princiapl del blog es compartir mis impresiones sobre la asignatura y todo aquello que se me ocurra comentar. 
+Este blog es un proyecto de seguimento de aprendizaje. El objetivo principal del blog es compartir mis impresiones sobre la asignatura y todo aquello que se me ocurra comentar. 
 
 ![Emerald](/img/Emerald01.png "Emerald")
 
